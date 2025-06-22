@@ -1,4 +1,4 @@
-// Main backend server for Manhit Exim Pvt. Ltd.
+// Main backend server for Manoeuver Consultancy Services Pvt. Ltd.
 // Handles contact and job application forms, sending all submissions to your email.
 
 const express = require('express');
